@@ -1936,12 +1936,12 @@ section.togetherjs-buttons .togetherjs-same-url {
 }
 @media screen and (max-device-width: 480px) {
   #togetherjs-dock.togetherjs-dock-right {
-    top: 0px;
-    width: auto;
-    height: 40px !important;
-    right: 0px;
+    /* top: 0px;
+    width: auto; */
+    height: auto;
+    /* right: 0px;
     margin: 10px;
-    bottom: 0px;
+    bottom: 0px; */
   }
   #togetherjs-dock #togetherjs-dock-anchor {
     width: 40px;
